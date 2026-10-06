@@ -1,0 +1,6 @@
+{
+  "name": "8WHIE VoiceForge",
+  "description": "Production-grade multilingual AI speech platform, voice design engine, and authorized voice cloning system by 8WHIE (Aryan Thakur).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

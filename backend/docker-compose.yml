@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  voiceforge-backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      - VOICEFORGE_HOST=0.0.0.0
+      - VOICEFORGE_PORT=8000
+      - VOICEFORGE_ENABLE_WATERMARKING=true
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/api/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3

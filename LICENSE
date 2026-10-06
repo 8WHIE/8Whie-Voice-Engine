@@ -1,0 +1,54 @@
+8WHIE SOURCE CODE LICENSE & COPYRIGHT NOTICE
+======================================================
+Copyright © 2026 8WHIE / Aryan Thakur. All rights reserved.
+
+Project: 8WHIE VoiceForge (Multilingual AI Speech Platform)
+Owner / Founder: Aryan Thakur
+Brand: 8WHIE
+GitHub Organization: 8whie
+
+1. OWNERSHIP & INTELLECTUAL PROPERTY
+-------------------------------------
+All original software source code, user interface designs, acoustic synthesis
+algorithms, expressive tokenization pipelines, normalization logic, sound design,
+and documentation authored specifically for this project are the sole intellectual
+property of Aryan Thakur and 8WHIE.
+
+2. LICENSE GRANT
+-----------------
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, subject to the following conditions:
+
+The above copyright notice, ownership declaration, and this permission notice
+shall be included in all copies or substantial portions of the Software.
+
+3. ETHICAL USAGE & ANTI-IMPERSONATION COVENANT
+-----------------------------------------------
+The Software shall NOT be utilized for:
+(a) Unauthorized voice cloning, identity theft, or deceptive deepfakes.
+(b) Impersonation of political candidates, government officials, or law enforcement.
+(c) Financial scams, vishing (voice phishing), or social engineering attacks.
+(d) Defamation, non-consensual voice recreation, or cyberbullying.
+
+Any usage violating this covenant immediately revokes all license grants.
+
+4. THIRD-PARTY DEPENDENCIES
+----------------------------
+This license applies solely to original 8WHIE materials. Third-party dependencies
+(including React, Express, Vite, Tailwind CSS, Lucide icons, and Google GenAI SDK)
+remain the property of their respective copyright holders and are licensed under
+their individual permissive licenses (MIT, ISC, Apache-2.0). 8WHIE makes no claim
+of ownership over third-party open-source components.
+
+5. DISCLAIMER OF WARRANTY
+--------------------------
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

@@ -1,0 +1,24 @@
+# 8WHIE VoiceForge - Python Backend Dependencies
+# Copyright © 2026 8WHIE / Aryan Thakur. All rights reserved.
+#
+# Dependency Licenses Verified:
+# - fastapi (MIT)
+# - uvicorn (BSD-3-Clause)
+# - pydantic (MIT)
+# - numpy (BSD-3-Clause)
+# - scipy (BSD-3-Clause)
+# - torch (Modified BSD)
+# - httpx (BSD-3-Clause)
+# - pytest (MIT)
+
+fastapi>=0.110.0
+uvicorn[standard]>=0.28.0
+pydantic>=2.6.0
+pydantic-settings>=2.2.0
+numpy>=1.24.0
+scipy>=1.11.0
+torch>=2.1.0
+httpx>=0.27.0
+pytest>=8.0.0
+pytest-asyncio>=0.23.0
+python-multipart>=0.0.9
